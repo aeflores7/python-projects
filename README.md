@@ -10,3 +10,5 @@ This project is able to run an endless loop of the user playing rock paper sciss
 This program creates a calculator capabable of running the 4 basic systems of equations with 2 numbers. An endless loop of calculations until the users end the program.
 #name_gen.py:
 Creates a name inspired by Dragonball based off a series of questions. Has multiple options for names.
+Final_project.py: My final project which contains a simulator of living in a post-apocalyptic world; includes variables, lists, and while true loops.
+Slot_machine.py: A project about gambling with a slot machine; includes while True loops and lists.
